@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora.csproj", "{93BA9E67-73A6-4182-BEEF-53D36FCC5EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor1", "..\Servidor1\Servidor1.csproj", "{23A8A2B6-C77C-4617-A5A7-392036840444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "..\Cliente\Cliente.csproj", "{F23E3110-9797-464F-A2D4-F1D060659F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93BA9E67-73A6-4182-BEEF-53D36FCC5EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BA9E67-73A6-4182-BEEF-53D36FCC5EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BA9E67-73A6-4182-BEEF-53D36FCC5EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BA9E67-73A6-4182-BEEF-53D36FCC5EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A8A2B6-C77C-4617-A5A7-392036840444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A8A2B6-C77C-4617-A5A7-392036840444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A8A2B6-C77C-4617-A5A7-392036840444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A8A2B6-C77C-4617-A5A7-392036840444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23E3110-9797-464F-A2D4-F1D060659F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23E3110-9797-464F-A2D4-F1D060659F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23E3110-9797-464F-A2D4-F1D060659F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23E3110-9797-464F-A2D4-F1D060659F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F96B54CE-4F63-4AFF-8230-8D1CAE56FF66}
+	EndGlobalSection
+EndGlobal
