@@ -1,0 +1,13 @@
+C:\Clases\Servidor1\bin\Debug\Servidor1.exe.config
+C:\Clases\Servidor1\bin\Debug\Servidor1.exe
+C:\Clases\Servidor1\bin\Debug\Servidor1.pdb
+C:\Clases\Servidor1\bin\Debug\Calculadora.dll
+C:\Clases\Servidor1\bin\Debug\Calculadora.pdb
+C:\Clases\Servidor1\obj\Debug\Servidor1.csproj.AssemblyReference.cache
+C:\Clases\Servidor1\obj\Debug\Servidor1.Form1.resources
+C:\Clases\Servidor1\obj\Debug\Servidor1.Properties.Resources.resources
+C:\Clases\Servidor1\obj\Debug\Servidor1.csproj.GenerateResource.cache
+C:\Clases\Servidor1\obj\Debug\Servidor1.csproj.CoreCompileInputs.cache
+C:\Clases\Servidor1\obj\Debug\Servidor1.csproj.Up2Date
+C:\Clases\Servidor1\obj\Debug\Servidor1.exe
+C:\Clases\Servidor1\obj\Debug\Servidor1.pdb

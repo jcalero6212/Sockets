@@ -1,0 +1,13 @@
+C:\Clases\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Clases\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Clases\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Clases\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Clases\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Clases\Cliente\bin\Debug\Cliente.exe.config
+C:\Clases\Cliente\bin\Debug\Cliente.exe
+C:\Clases\Cliente\bin\Debug\Cliente.pdb
+C:\Clases\Cliente\bin\Debug\Calculadora.dll
+C:\Clases\Cliente\bin\Debug\Calculadora.pdb
+C:\Clases\Cliente\obj\Debug\Cliente.csproj.Up2Date
+C:\Clases\Cliente\obj\Debug\Cliente.exe
+C:\Clases\Cliente\obj\Debug\Cliente.pdb
